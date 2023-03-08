@@ -143,9 +143,9 @@ body {
     }
 
     .question__answer {
-    width: 100%;
+        width: 100%;
     }
     .content__heading {
-    text-align: center;
+        text-align: center;
     }
 }
