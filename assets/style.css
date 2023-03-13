@@ -139,7 +139,7 @@ body {
         top: -30%;
     }
     .accordion__content {
-        margin-top: 0px;
+        margin-top: -16px;
     }
 
     .question__answer {
